@@ -1,4 +1,6 @@
 <img width="1002" height="436" alt="image" src="https://github.com/user-attachments/assets/1d734f92-f5ce-45e2-afaf-10ec7949f5c5" />
+<img width="1030" height="514" alt="image" src="https://github.com/user-attachments/assets/64ae59ba-7835-4742-a13c-0734ba5555de" />
+<img width="255" height="574" alt="image" src="https://github.com/user-attachments/assets/d0c3e8bc-708b-461d-b8d4-03f686611465" />
 
 # R22EF207: URL Shortener
 
