@@ -32,7 +32,7 @@ This is a full-stack URL shortening service that converts long URLs into concise
 
     ```bash
     git clone https://github.com/your-username/R22EF207.git
-    cd R22EF207/client
+    cd R22EF207/url-shortner/client
     ```
 
 2.  Install dependencies:
